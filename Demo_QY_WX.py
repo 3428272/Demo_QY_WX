@@ -8,7 +8,7 @@ import requests, json
 import datetime
 import time
 
-wx_url = "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=4baf3c3c-f3ea-4554-9a45-9fbbb2076269"    # 测试机器人1号
+wx_url = "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=bb3d6650-aa68-41c5-a473-b1dddf4ea038"    # 测试机器人1号
 send_message = "测试：测试机器人1号………………………………！"
 
 
